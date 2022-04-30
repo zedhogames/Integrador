@@ -67,20 +67,8 @@ h6{
 }
 #react1{
     color: white;
-}
-      
+}   
 
-
-#botonPlaya{
-    color: white;
-    border-color:black;
-}
-
-#playa{
-    width: 50%;    
-    
-  
-}
 
 .card-title{
     margin-left: 0.5em;
@@ -91,24 +79,21 @@ h6{
 .card-text{
     margin-left: 0.5em;
     text-align: left;
-    font-size: 0.7em;
+    font-size: 0.7em;   
 }
-.cuadrado{
-    width: 100%;
-    height: 95%;
-    color: rgb(218, 210, 231);  
-    background-color: rgb(59, 59, 80);
-    border: 3px rgb(0, 0, 0);
-  
-}
-
-#botonPlaya{
-    background-color: transparent;  
-    border-color: white;
-    margin-left: 0.5em;
-    font-size: small;    
+#cuadrado{
+    width: 40em; 
+    height: 33em; 
+    border: 1px solid rgb(235, 230, 230);
+    background-color: rgb(20, 17, 59);
     
 }
+#botonCarusel{
+    color: white;
+    border-color: white;
+    background-color: transparent;
+}
+
 #nombre{
     margin-left: 15em;
 }
@@ -147,3 +132,10 @@ h6{
     margin-left: 20em;    
       
 }
+
+
+
+
+
+
+
