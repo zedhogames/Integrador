@@ -95,16 +95,21 @@ h6{
 }
 
 #nombre{
-    margin-left: 15em;
+    margin-left: auto;
+    margin-right: auto;
 }
 #apellido{
-    margin-left: 15em;
+    margin-left: auto;
+    margin-right: auto;
 }
 #hablar{
-    margin-left: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(141, 140, 140);
 }
 #titulo{
-    margin-left: 15em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #botonEnviar{
